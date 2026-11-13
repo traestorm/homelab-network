@@ -26,11 +26,11 @@ this repo must be working before any VMs or containers exist.
 
 | Component | Tech | Status |
 |---|---|---|
-| VPN | WireGuard | ✅ |
-| Firewall | nftables | ✅ |
+| VPN | WireGuard | 🚧 |
+| Firewall | nftables | 🚧 |
 | DNS | systemd-resolved / dnsmasq | 🚧 |
 | DHCP | dnsmasq / systemd-networkd | 🚧 |
-| Routing | static (OSPF later) | ✅ |
+| Routing | static (OSPF later) | 🚧 |
 | Certs | mkcert (internal) / acme.sh (public) | 🚧 |
 
 ## Quick Start
