@@ -5,8 +5,6 @@ this repo must be working before any VMs or containers exist.
 
 ## Topology
 
-## Topology
-
 ```
 [ISP Router]
     │
