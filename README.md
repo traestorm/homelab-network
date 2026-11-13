@@ -5,12 +5,15 @@ this repo must be working before any VMs or containers exist.
 
 ## Topology
 
-[ISP Router]
-│
-[Homelab Firewall/Router] ← nftables, WireGuard server
-│
-[Switch]
-├── [Server: DNS, DHCP, Certs]
-├── [Server: VMs/Containers]
-└── [Client devices]
+## Topology
 
+```
+[ISP Router]
+    │
+[Homelab Firewall/Router]  ← nftables, WireGuard server
+    │
+[Switch]
+    ├── [Server: DNS, DHCP, Certs]
+    ├── [Server: VMs/Containers]
+    └── [Client devices]
+```
