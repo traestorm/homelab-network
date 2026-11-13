@@ -15,3 +15,9 @@ this repo must be working before any VMs or containers exist.
     ├── [Server: VMs/Containers]
     └── [Client devices]
 ```
+
+## Not committed
+
+- Private keys (WireGuard, TLS)
+- ISP credentials
+- Any `.env` files
